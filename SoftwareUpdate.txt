@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
