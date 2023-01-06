@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Improve Docs arguments tables (#8415)
