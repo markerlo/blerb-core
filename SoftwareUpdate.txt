@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
