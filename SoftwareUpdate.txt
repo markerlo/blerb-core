@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+ultralytics 8.0.228 add training time argument (#7054)
