@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Update Docs language dropdown height (#6927)
