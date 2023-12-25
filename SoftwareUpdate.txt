@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
