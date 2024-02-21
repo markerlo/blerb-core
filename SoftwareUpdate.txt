@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
