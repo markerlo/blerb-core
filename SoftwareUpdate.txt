@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
